@@ -1,6 +1,7 @@
 Dependencies:
 
 Optional Dependencies:
+
     ShellCheck - A shell script static analysis tool
         https://github.com/koalaman/shellcheck
 
